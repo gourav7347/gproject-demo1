@@ -1,3 +1,3 @@
 # gproject-demo1
-this is my first repo
+This is my first Git repo
 Author-gourav
